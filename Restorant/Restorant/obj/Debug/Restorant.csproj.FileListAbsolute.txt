@@ -1,0 +1,16 @@
+C:\Users\Ömer Faruk Güzelim\source\repos\Restorant\Restorant\bin\Debug\Restorant.exe.config
+C:\Users\Ömer Faruk Güzelim\source\repos\Restorant\Restorant\bin\Debug\Restorant.exe
+C:\Users\Ömer Faruk Güzelim\source\repos\Restorant\Restorant\bin\Debug\Restorant.pdb
+C:\Users\Ömer Faruk Güzelim\source\repos\Restorant\Restorant\obj\Debug\Restorant.csprojAssemblyReference.cache
+C:\Users\Ömer Faruk Güzelim\source\repos\Restorant\Restorant\obj\Debug\Restorant.Form1.resources
+C:\Users\Ömer Faruk Güzelim\source\repos\Restorant\Restorant\obj\Debug\Restorant.Properties.Resources.resources
+C:\Users\Ömer Faruk Güzelim\source\repos\Restorant\Restorant\obj\Debug\Restorant.csproj.GenerateResource.cache
+C:\Users\Ömer Faruk Güzelim\source\repos\Restorant\Restorant\obj\Debug\Restorant.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Faruk Güzelim\source\repos\Restorant\Restorant\obj\Debug\Restorant.exe
+C:\Users\Ömer Faruk Güzelim\source\repos\Restorant\Restorant\obj\Debug\Restorant.pdb
+C:\Users\Ömer Faruk Güzelim\source\repos\Restorant\Restorant\obj\Debug\Restorant.Garsongiris.resources
+C:\Users\Ömer Faruk Güzelim\source\repos\Restorant\Restorant\obj\Debug\Restorant.Yönetici_Giriş.resources
+C:\Users\Ömer Faruk Güzelim\source\repos\Restorant\Restorant\obj\Debug\Restorant.YöneticiPanel.resources
+C:\Users\Ömer Faruk Güzelim\source\repos\Restorant\Restorant\obj\Debug\Restorant.GarsonPanel.resources
+C:\Users\Ömer Faruk Güzelim\source\repos\Restorant\Restorant\obj\Debug\Restorant.KayıtEkle.resources
+C:\Users\Ömer Faruk Güzelim\source\repos\Restorant\Restorant\obj\Debug\Restorant.Menü.resources
